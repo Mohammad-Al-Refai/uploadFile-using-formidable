@@ -1,0 +1,27 @@
+*{
+    user-select: none;
+    margin: 0px;
+    outline: none;
+    box-sizing: border-box;
+font-family: 'Courier New', Courier, monospace;
+}
+body{
+    background-color: rgb(13, 18, 22);
+}
+header{
+    font-size: 40px;
+    color: white;
+    text-align: center;
+    height: 50px;
+    background-color: rgb(17, 79, 160);
+}
+h2{
+    
+    margin: 100px;
+    text-align: center;
+    color: white;
+}
+.div{
+    margin: 100px;
+    
+}
